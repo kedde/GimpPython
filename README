@@ -1,0 +1,13 @@
+Gimp plugins - written in python(using PyDev - eclipse)
+---------------------------------------------------------
+
+Fills a image with rows or columns and a number showing the current length in pixels. 
+It's possible to choose the size of the lines.
+
+
+References:
+---------------------------------------------------------
+Documentation - python: http://www.gimp.org/docs/python/index.html
+Gimp wiki: http://wiki.gimp.org/index.php/Hacking:Plugins
+Debug: http://developer.gimp.org/debug-plug-ins.txt
+Example Tutorial: http://www.exp-media.com/gimp-python-tutorial
